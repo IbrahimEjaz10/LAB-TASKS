@@ -1,1 +1,2 @@
-python lab tasks oop 
+LAB TASKS OOP
+by: IBRAHIM EJAZ -021
